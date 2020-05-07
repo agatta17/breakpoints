@@ -1,2 +1,1 @@
-# breakpoints
-Typical Device Breakpoints
+# Пример с основными брек-поинтами для адаптивной верстки
