@@ -1,0 +1,39 @@
+.title{
+  font-size: 30px;
+}
+
+@media (min-width: 320px){
+  .title{
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 481px){
+  .title{
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 641px){
+  .title{
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 961px){
+  .title{
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 1025px){
+  .title{
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 1281px){
+  .title{
+    font-size: 36px;
+  }
+}
